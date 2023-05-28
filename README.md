@@ -1,2 +1,2 @@
 # SQL
-Career Foundry SQL exercises
+Career Foundry SQL 
